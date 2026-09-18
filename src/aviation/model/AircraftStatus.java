@@ -1,6 +1,9 @@
+package aviation.model;
+
 public enum AircraftStatus {
 
-    AVAILABLE
-    IN_FLIGHT
+    AVAILABLE,
+    ASSIGNED,
+    IN_FLIGHT,
     MAINTENANCE
 }
