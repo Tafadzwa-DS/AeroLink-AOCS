@@ -102,5 +102,5 @@ Future versions may introduce:
 
 Tafadzwa Magweregwede
 
-BSc Information Technology
+BSc Information Technology..
 University of Botswana
