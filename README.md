@@ -84,6 +84,25 @@ Passenger
 
 The application also demonstrates exception handling when users provide invalid aircraft, flight, passenger, booking, or seat information.
 
+
+## Screenshots
+
+### Main Menu
+
+![AeroLink AOCS Main Menu](screenshots/main-menu.jpeg)
+
+### Flight Management
+
+![Flight Management](screenshots/flight-management.jpeg)
+
+### Passenger
+
+![Passenger](screenshots/passenger.jpeg)
+
+### Reports
+
+![Reports](screenshots/reports.jpeg)
+
 ## Version
 
 V1 focuses on demonstrating core airline-operations functionality using in-memory data structures, primarily ArrayList.
